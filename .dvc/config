@@ -1,0 +1,7 @@
+[core]
+    remote = dagshub
+['remote "dagshub"']
+    url = https://dagshub.com/shastranew/KARNA.dvc
+    auth = basic
+    user = shastranew
+    password = 5c61ea33cf3733eafb32ad740afda132b5a2bd27
